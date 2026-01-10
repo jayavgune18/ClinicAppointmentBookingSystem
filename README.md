@@ -2,4 +2,4 @@ The Clinic Appointment Booking System is a console-based application developed u
 
 This system allows patients to book appointments with doctors, view available time slots, and cancel appointments. It also allows the clinic administrator to manage doctors, patients, and appointment records. All data is securely stored and retrieved from a database to ensure data persistence.
 
-Since the project is console-based, all interactions take place through the command line without using any graphical user interface (GUI). This helps in understanding core Java concepts, database connectivity (JDBC), and CRUD operations.
+
