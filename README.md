@@ -119,4 +119,3 @@ It improves accuracy, saves time, and makes appointment handling more efficient 
 
 ---
 
-⭐ If you find this project useful, please consider starring the repository!
